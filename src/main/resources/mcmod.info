@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "the-wastes2",
+    "name": "The Wastes2",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
